@@ -1,5 +1,5 @@
 # metaimage
-Утилита для накладывания данных о сьёмки на фотографии.
+Утилита для накладывания данных о сьёмки на фотографии. К программе приложен шрифт [CaviarDreams](https://fonts-online.ru/fonts/caviar-dreams) \
 Примеры: \
 <img src="https://github.com/MagAcademy30/metaimage/raw/main/examples/IMG_2122.JPG" width="300">
 <img src="https://github.com/MagAcademy30/metaimage/raw/main/examples/IMG_2149.JPG" width="300">
@@ -13,8 +13,8 @@
  `pip install pillow exifread`
  После, можно запускать **run.bat** для запуска
 
- * Linux(Debian-based, Ubuntu):
- (Я не проверял)
+ * Linux(Debian-based, Ubuntu): \
+ (Я не проверял) \
  Вам потребуется установить Python 3 и менеджер пакетов pip а после установить библиотеки:
  ```
  sudo apt update 
