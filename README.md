@@ -1,5 +1,9 @@
 # metaimage
 Утилита для накладывания данных о сьёмки на фотографии.
+Примеры: \
+<img src="https://github.com/MagAcademy30/metaimage/raw/main/examples/IMG_2122.JPG" width="300">
+<img src="https://github.com/MagAcademy30/metaimage/raw/main/examples/IMG_2149.JPG" width="300">
+<img src="https://github.com/MagAcademy30/metaimage/raw/main/examples/_MG_4362.JPG" width="300">
 ## Возможности
  * Накладывание числа ISO, диафрагмы, выдержки и фокусного расстояния на фотографию
  * Настройка размера текста, сдвиг от краёв, пространство между строчками, его положение по углам и его прозрачность
